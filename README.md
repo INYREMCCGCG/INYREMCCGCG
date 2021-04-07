@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @INYREMCCGCG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Lumin Front-End
+Installation:
 
-<!---
-INYREMCCGCG/INYREMCCGCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Run 'npm run i' command to install packages of all projects(this is needed for git hooks to work) Start individual project
